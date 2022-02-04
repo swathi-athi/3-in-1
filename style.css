@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #532992;
+    position: fixed;
+    width: 100%;
+}
+
+.poster img{
+    display: block;
+    width: 44%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-size: 45px;
+    background-color: #5E77C2;
+}
+
+.event-imgs{
+    background-color: #D0E6E6;
+}
+
+.events{
+    text-align: center;
+    padding: 20px 0;
+    background-color: #5E77C2;
+}
+
+.column{
+    float: left;
+    width: 33%;
+    text-align: center;
+    border-radius: 30px;
+}
+.btn{
+    font-size: 25px;
+    width: 100%;
+    font-weight: 500;
+    color: #D0E6E6;
+    background-color: #532992;
+    border-radius: 10px;
+}
+.column a img:hover{
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.column .btn:hover{
+    color: #332837;
+}
+
+.event-rec{
+    background-color: #D0E6E6;
+}
+.rec{
+    text-align: center;
+    padding: 20px 0;
+    background-color: #5E77C2;
+}
+.column{
+    float: left;
+    width: 33%;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.resources{
+    margin-top: 30px;
+    width: 30rem;
+}
+
+.row{
+    padding: 10px 0;
+}
+
+.thanku{
+    text-align: center;
+    padding: 60px;
+    font-size: 60px;
+    color: #332837;
+    background-color: #D0E6E6;
+}
